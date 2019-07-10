@@ -1,9 +1,8 @@
 #Patricia Shatz
 #Module 8 Assignment 
 #Created on Sun May 5 13:24:00 2019
-#Modified on Mon May 6 03:32:00 2019 
 
-#data is the text inputted by the user and key represents the shift that should occur with 
+#Data is the text inputted by the user and key represents the shift that should occur with 
 #each character of the user's original message
 
 
